@@ -16,4 +16,8 @@ This is a sample web project and it can be deployed to any web server.
 
 ## How To Contribute
 
+Please fork this repository and thgen issue Pull Request for review.
+
 ## Copyright
+
+2017 @<ABC organisation>
