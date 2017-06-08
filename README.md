@@ -20,4 +20,4 @@ Please fork this repository and thgen issue Pull Request for review.
 
 ## Copyright
 
-2017 @<ABC organisation>
+2017 @ABC Corporation
