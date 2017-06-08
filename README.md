@@ -15,3 +15,5 @@ Sample website with plenty of files for demos and better understanding of git co
 This is a sample web project and it can be deployed to any web server. 
 
 ## How To Contribute
+
+## Copyright
