@@ -8,7 +8,7 @@ This is to show how different part of the repository works and help you unsersrt
 
 ## Purpose
 
-Sample website with plenty of files for demos and better understanding of git concepts. Updating for an emergency fix after stash.
+Sample website with plenty of files for demos and better understanding of git concepts. 
 
 ## Deployment
 
