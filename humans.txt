@@ -4,6 +4,7 @@
 # TEAM
 
 	XYZ		XYZ@gmail.com	@XYZ
+	PQR		PQR@outlook.com	@PQR
 
 # THANKS
 
